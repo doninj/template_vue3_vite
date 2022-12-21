@@ -1,0 +1,14 @@
+{
+  "optionscompilateur": {
+    "baseUrl": ".",
+    "cible": "es2020",
+    "module": "es2020",
+    "moduleResolution": "nœud"
+  },
+  "inclure": [
+    "./paquets/**/*.ts"
+  ],
+  "exclure": [
+    "./agencements/**/*.*"
+  ]
+}
